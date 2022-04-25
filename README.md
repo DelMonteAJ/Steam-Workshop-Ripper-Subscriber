@@ -7,7 +7,7 @@
 ### The ideal audience is a group of friends attempting to synchronize workshop packages, such as for Garry's Mod. The hosting user would rip their workshop subscriptions and share the text file for the other friends to subscribe to using the respective Python3 scripts.
 ---
 ## Requirements
-### Python 3 (Tested on 3.10.4)
+### Python 3 (Tested on 3.10.4, make sure it is added onto PATH)
 ### The following Python Modules: selenium
 
 ### To install selenium, type the following command into command prompt.
