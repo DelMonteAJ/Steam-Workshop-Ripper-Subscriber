@@ -45,3 +45,4 @@ pip install selenium
 #### Your driver will also need to be set on PATH (refer to the selenium documentation for more info), unless given a proper location in the program.
 #### If the program ripping process finished almost instantly, check and ensure your profile's workshop link was enter correctly.
 #### The subscriber assumes that the links file will be named links.txt inside of a links directory (similarly to how it is output during the ripper process) and will not work correctly unless the program is adjusted for other naming conventions.
+#### You may have to use the subscribe function multiple times, there is a potential chance that a page may or may not subscribe.
