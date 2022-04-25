@@ -1,5 +1,3 @@
-from re import T
-from shlex import split
 from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
